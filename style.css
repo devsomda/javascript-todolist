@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  margin-left: 5px;
+}
